@@ -1,0 +1,24 @@
+{
+  "name": "org.johoco.dependency-insight",
+  "version": "0.0.1",
+  "description": "The UI for the dependency-insight api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhoestje/dependency-insight-ui.git"
+  },
+  "keywords": [
+    "dependency",
+    "metadata",
+    "vulnerabilities"
+  ],
+  "author": "John Hoestje <john.hoestje@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhoestje/dependency-insight-ui/issues"
+  },
+  "homepage": "https://github.com/jhoestje/dependency-insight-ui#readme"
+}
